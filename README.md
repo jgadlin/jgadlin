@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jgadlin
 - 👀 I’m interested in Data Science Roles
-- 🌱 I’m currently learning Machine Learning, Big Data Analytics, Data Visualization, Statistical Methods, Database Systems,and Natural Language Processing
-- 💞️ I’m looking to collaborate with a team of researchers to analyze research data and interpret findings
+- 🌱 I’m a rescent graduate student with skills in Machine Learning, Big Data Analytics, Data Visualization, and Statistical Methods
 - 📫 How to reach me (Email: j-gadlin@hotmail.com, Phone: 209-409-6855)
 
 <!---
